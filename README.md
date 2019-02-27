@@ -3,7 +3,7 @@
 
 List of sources miniapp for Insights.
 
-:![Main screen with "Add a new Source" modal](../doc/images/sources-main-add.jpg)
+:![Main screen with "Add a new Source" modal](https://raw.githubusercontent.com/martinpovolny/topological_inventory-ui/master/doc/images/sources-main-add.jpg)
 
 Includes fragments for the Topological Inventory UI for Insights.
 
@@ -71,7 +71,7 @@ Insights Platform will deliver components and static assets through [npm](https:
 
 ## Technologies
 
-- See [Technologies](../doc/technologies.md).
+- See [Technologies](doc/technologies.md).
 
 ## License
 
